@@ -1,0 +1,15 @@
+{
+  "name": "fuzzytime",
+  "version": "1.0.0",
+  "description": "The fuzziest of time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.4.5",
+    "hide-terminal-cursor": "0.0.1"
+  }
+}
